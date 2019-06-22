@@ -1,0 +1,48 @@
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.CustomerForm.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DataTypeForm.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DepartmentUi.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.StudentUi.resources
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+C:\Phase 2\Batch 4\Day10\batch4\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
+E:\Rajib\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+E:\Rajib\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+E:\Rajib\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.CustomerForm.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DataTypeForm.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DepartmentUi.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.StudentUi.resources
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+E:\Rajib\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.CustomerForm.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DataTypeForm.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DepartmentUi.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.StudentUi.resources
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+D:\ASP.NET Work\BITM Course Files\MyPractice\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
